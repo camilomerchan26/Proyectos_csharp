@@ -1,0 +1,16 @@
+C:\Users\christian.merchan\source\repos\Nueva_API\Nueva_API\obj\Debug\netcoreapp2.1\Nueva_API.AssemblyInfoInputs.cache
+C:\Users\christian.merchan\source\repos\Nueva_API\Nueva_API\obj\Debug\netcoreapp2.1\Nueva_API.AssemblyInfo.cs
+C:\Users\christian.merchan\source\repos\Nueva_API\Nueva_API\obj\Debug\netcoreapp2.1\Nueva_API.csproj.CoreCompileInputs.cache
+C:\Users\christian.merchan\source\repos\Nueva_API\Nueva_API\obj\Debug\netcoreapp2.1\Nueva_API.RazorAssemblyInfo.cache
+C:\Users\christian.merchan\source\repos\Nueva_API\Nueva_API\obj\Debug\netcoreapp2.1\Nueva_API.RazorAssemblyInfo.cs
+C:\Users\christian.merchan\source\repos\Nueva_API\Nueva_API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\christian.merchan\source\repos\Nueva_API\Nueva_API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\christian.merchan\source\repos\Nueva_API\Nueva_API\bin\Debug\netcoreapp2.1\Nueva_API.deps.json
+C:\Users\christian.merchan\source\repos\Nueva_API\Nueva_API\bin\Debug\netcoreapp2.1\Nueva_API.runtimeconfig.json
+C:\Users\christian.merchan\source\repos\Nueva_API\Nueva_API\bin\Debug\netcoreapp2.1\Nueva_API.runtimeconfig.dev.json
+C:\Users\christian.merchan\source\repos\Nueva_API\Nueva_API\bin\Debug\netcoreapp2.1\Nueva_API.dll
+C:\Users\christian.merchan\source\repos\Nueva_API\Nueva_API\bin\Debug\netcoreapp2.1\Nueva_API.pdb
+C:\Users\christian.merchan\source\repos\Nueva_API\Nueva_API\obj\Debug\netcoreapp2.1\Nueva_API.RazorTargetAssemblyInfo.cache
+C:\Users\christian.merchan\source\repos\Nueva_API\Nueva_API\obj\Debug\netcoreapp2.1\Nueva_API.dll
+C:\Users\christian.merchan\source\repos\Nueva_API\Nueva_API\obj\Debug\netcoreapp2.1\Nueva_API.pdb
+C:\Users\christian.merchan\source\repos\Nueva_API\Nueva_API\obj\Debug\netcoreapp2.1\Nueva_API.genruntimeconfig.cache
